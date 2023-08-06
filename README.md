@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hello there! 👋
 
-<!--
-**ash-porwal/ash-porwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Git repository. Let me walk you through my expertise and skills.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 1. **ETL Specialist**:
+- 🐍 Primary Language: **Python**.
+- 🔗 **Data Extraction** from various sources:
+  - Relational & NoSQL databases.
+  - APIs (RESTful, SOAP, etc.).
+  - Different file types (CSV, JSON, XML, Parquet, etc.).
+  - Web scraping.
+  - Amazon S3 buckets.
+  
+#### 2. **Linux Environments**:
+- Totally familiar with Linux environemt, as I work on RedHat servers.
+- Disk management with **LVM**.
+- Mounting filesystems permanently.
+- Deploying and maintaining **JupyterHub** on servers.
+  
+#### 3. **Cloud Technologies**:
+
+- **AWS**:
+  - Containers with **ECR**.
+  - Serverless with **Lambda**.
+  - Object storage with **S3**.
+  - Proficient in **AWS SDK** and **CDK**.
+  - Certified as an **AWS Practitioner**.
+  
+- **Azure with SDK**:
+  - Interacting with **BlobClient** for Azure Blob Storage.
+  - Working with **CosmosDB**.
+  
+#### 4. **Performance Tuning**:
+- Well optimized scripts
+- Implemented **parallel processing** in Python.
+- Efficient utilization of all available CPU cores for faster processing.
+
+### 📫 How to reach me:
+
+You can connect with me through [ashporwal11@gmail.com]
+
+---
+
+Remember to always keep learning and exploring! 💡
