@@ -22,10 +22,11 @@ Welcome to my Git repository. Let me walk you through my expertise and skills.
 #### 3. **Cloud Technologies**:
 
 - **AWS**:
-  - Containers with **ECR**.
   - Serverless with **Lambda**.
+  - Managing serverlese service with **Stepfunction**
   - Object storage with **S3**.
   - Proficient in **AWS SDK** and **CDK**, as I've done automation with them.
+  - Using **AWS CLI**
   - Currently have knowledge equivalent to **AWS Practitioner**, learning for AWS developers.
   
 - **Azure with SDK**:
@@ -48,7 +49,9 @@ Welcome to my Git repository. Let me walk you through my expertise and skills.
 - Azure
 - Linux
   
-  I've mention those which I am familiar with as learning never ends for AWS, Azure and Linux.
+  I've mention those which I am familiar with as learning never ends.
+  I like to share whatever I learn, so when I get free time I write articles on medium: https://medium.com/@ashporwal11
+  
   
 ### 📫 How to reach me:
 
